@@ -2,4 +2,4 @@
 Daily Java &amp; DSA learning based on Apna College’s Placement Course. Includes notes, practice code, and progress tracking via Notion.
 ## 📘 Lecture 1 – Introduction to Java
 
-[![Introduction to Java Notes]((https://www.notion.so/Introduction-to-Java-Language-Lecture-1-Complete-Placement-Course-2fe4949aa5bc80d4ac6cde2be077ee0b?source=copy_link#2fe4949aa5bc807da7c8e7e816fb44a9))](https://github.com/Purushotham-Kurchavati/java-dsa-apna-college-/blob/main/image.png?raw=true)
+https://github.com/Purushotham-Kurchavati/java-dsa-apna-college-/blob/main/image.png?raw=true
